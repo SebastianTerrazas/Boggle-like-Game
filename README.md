@@ -1,2 +1,2 @@
-# Boogle-like-Game
- Game similar to boogle made in Java using Swing windows and algorythmic solving
+# Boggle-like-Game
+ Game similar to boggle made using Java and Swing windows and algorythmic solving
